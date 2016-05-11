@@ -4,7 +4,7 @@ permalink: /projects/
 title: Projects from the Civic Data Alliance
 tagline: Making Public Data Truly Public.
 tags: [projects]
-modified: 9-5-2014
+modified: 5-11-2016
 comments: false
 image:
   feature: texture-feature-06.jpg
@@ -18,13 +18,19 @@ The Civic Data Alliance is composed of local volunteers, helping to open data, a
 
 # CURRENT
 
-#### **Tree and Property Maps**
+#### **Tree, Heat and Property Maps**
 * *Louisville Property Tax and Tree Cover by Parcel Map*
 * [civicdataalliance.org](http://www.civicdataalliance.org/louisville-property-tax-tree-canopy-map-open-data/)
 
-#### **OpenStreetMap for the Visually Impaired**
-* *Helping the Visually Impaired Navigate Louisville Using Open Data*
-* [civicdataalliance.org](http://www.civicdataalliance.org/gis-open-data-american-printing-house-open-street-map/)
+* *Heat Island Effect across Louisville*
+* [codeforamerica.cartodb.com/u/civicdataalliance](https://codeforamerica.cartodb.com/u/civicdataalliance/viz/47c64c38-0ae9-11e6-ab5b-0e31c9be1b51/map)
+
+* *Every PVA Property Parcel Mapped*
+* [codeforamerica.cartodb.com/u/civicdataalliance](https://codeforamerica.cartodb.com/u/civicdataalliance/viz/c659ca56-f75d-11e5-86df-0ecfd53eb7d3/map)
+
+#### **Kentucky Voting Precincts**
+* *For the first time ever, 7168 KY voting precincts mapped online, with voter data.*
+* [codeforamerica.cartodb.com/u/civicdataalliance](https://codeforamerica.cartodb.com/u/civicdataalliance/viz/830a2b22-07fe-11e6-8b87-0e787de82d45/map)
 
 #### **Louisville Minecraft**
 * *Opening city GIS layers needed to recreate our city in Minecraft*
@@ -37,18 +43,28 @@ The Civic Data Alliance is composed of local volunteers, helping to open data, a
 
 
 
+# COMPLETE #
 
-# COMPLETE 
+#### **OpenStreetMap for the Visually Impaired**
+* *Helping the Visually Impaired Navigate Louisville Using Open Data*
+* [civicdataalliance.org](http://www.civicdataalliance.org/gis-open-data-american-printing-house-open-street-map/)
 
 #### **Voter Turnout by Precinct**
 * *May 2014 primary including registered voters, turnout numbers and percent*
 * [projects.civicdataalliance.org/voter-turnout](http://projects.civicdataalliance.org/voter-turnout/)
 * [projects.civicdataalliance.org/election-results](http://projects.civicdataalliance.org/election-results/)
 
+#### **Who Owns the Road?**
+* *City, state, federal, private, sub-city road ownerships for Louisville.*
+* [codeforamerica.cartodb.com/u/civicdataalliance](https://codeforamerica.cartodb.com/u/civicdataalliance/viz/354e6296-f28b-11e5-aced-0e3ff518bd15/map)
+
+#### **Pedestrian and Bicycle Collisions**
+* *15 years of collisions mapped and organized*
+* [codeforamerica.cartodb.com/u/civicdataalliance](https://codeforamerica.cartodb.com/u/civicdataalliance/viz/709d8d9a-4b3d-11e5-a779-0e4fddd5de28/map)
+* 
 #### **The Next Bus**
 * *Encouraging bus ridership in the city*
 * [getonthenextbus.com](http://www.getonthenextbus.com)
-
 
 #### **Louisville Fiber**
 * *Mapping the demand for high speed internet*
@@ -67,9 +83,13 @@ The Civic Data Alliance is composed of local volunteers, helping to open data, a
 
 # MEMBER PROJECTS #
 
+#### **Speed Up Louisville**
+* *Understand the quality and cost of internet service* - Eric Littleton
+* [speeduplouisville.com](https://www.speeduplouisville.com/)
+
 #### **TARC Bus Animation**
 * *24 hour interactive animation of all TARC bus stops* - Michael Schnuerle
-* [civicdataalliance.org](https://yourmapper.cartodb.com/viz/ef80ee32-1a81-11e5-ac33-0e018d66dc29/public_map)
+* [yourmapper.cartodb.com](https://yourmapper.cartodb.com/viz/ef80ee32-1a81-11e5-ac33-0e018d66dc29/public_map)
 
 #### **JCPS Resides Map**
 * *Showing resides school boundaries for the first time* - Michael Schnuerle

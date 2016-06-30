@@ -62,6 +62,7 @@ The Civic Data Alliance is composed of local volunteers, helping to open data, a
 * *15 years of collisions mapped and organized*
 * [codeforamerica.cartodb.com/u/civicdataalliance](https://codeforamerica.cartodb.com/u/civicdataalliance/viz/709d8d9a-4b3d-11e5-a779-0e4fddd5de28/map)
 * 
+
 #### **The Next Bus**
 * *Encouraging bus ridership in the city*
 * [getonthenextbus.com](http://www.getonthenextbus.com)

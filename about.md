@@ -45,6 +45,25 @@ Organizations that we have partnered with for past or current projects
 * [Metro Safe and Healthy Neighborhoods](https://louisvilleky.gov/government/safe-neighborhoods)
 * [Network Center for Community Change](http://makechangetogether.org/)
 
+**Donors and Supporters**
+
+People and companies that have made a tax-deductible <a href="http://bit.ly/GiveCDA">donation</a> to CDA (a non-profit 501c3 through Code for America).
+
+* [Becky Steele](https://twitter.com/ladyofsteele)
+* [Brian Herbert, CTO @ MakeTime](https://www.maketime.io/)
+* [Chris Harrell @ Lazarus LLC](http://www.lazarusllc.com/)
+* [Dave Mattingly](https://www.linkedin.com/in/blackwyrm)
+* [Eric Bickel](https://twitter.com/eric_bickel/)
+* [KY Youth Advocates (a volunteer)](http://kyyouth.org/)
+* [Karyn Boyd](https://twitter.com/karynboydTLH)
+* [Kshma Kulkarni @ Glass Capitol](http://www.glasscapitol.org/)
+* [OPI Metro Louisville](https://louisvilleky.gov/government/performance-improvement-innovation)
+* [Michael Schnuerle @ Metro Mapper](https://twitter.com/metromapper)
+* [Mission Data](http://www.missiondata.com/)
+* [Stan Siranovich](http://www.LinkedIn.com/in/StanSiranovich)
+* [WFPL](http://www.wfpl.org/)
+* [William Burke](http://billstron.com/)
+
 **History and Leadership**
 
 Louisville's Code for America Brigade was founded in December of 2012 by Michael Schnuerle after partnering with Louisville Metro since 2011 to open crime, restaurant, and permit data, creating interactive maps for the city, and advising on the city's open data portal launch in October 2011.
@@ -57,7 +76,7 @@ In December 2014 we reached official Brigade status with Code for America.
 
 As of June 2015, over 300 people and volunteers have participated in our hackathons, meetups, and events.  Thank you!
 
-We've had **14 meetups**, run **7 hackathons**, worked on **29 civic public projects**, and donated over **6,000 hours** of volunteer time to the community!
+We've had **16 meetups**, run **9 hackathons**, worked on **35 civic public projects**, and donated over **7,000 hours** of volunteer time to the community!
 
 **Code of Conduct**
 
